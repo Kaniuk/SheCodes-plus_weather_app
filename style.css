@@ -1,0 +1,20 @@
+h1 {
+    font-size: 46px !important;
+    font-weight: bold !important;
+}
+
+sup {
+    font-size: 20px !important;
+    margin: -10px !important;
+}
+
+.forecast_container, .container {
+    max-width: 600px !important;
+    font-family: "Source Code Pro", monospace !important;
+    border: 1px solid blue !important;
+    background: blanchedalmond !important;
+}
+
+.sunset_info {
+    font-size: 12px !important;
+}
